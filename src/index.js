@@ -19,21 +19,21 @@ root.render(
         <ExAxios1/>
         <UseContextEx/>
         <CounterOne/>
-        {/* {<HooksExample/>} */}
-        {/* <RegistrationForm/> */}
-        {/* <List/>
-        <ParentComponet/> */}
-         {/* <LifeCycleMethods color='yellow'></LifeCycleMethods>  */}
-        {/* <Welcome message='please subscibe'></Welcome> */}
+        {<HooksExample/>} 
+        <RegistrationForm/>
+        <List/>
+        <ParentComponet/> 
+         <LifeCycleMethods color='yellow'></LifeCycleMethods>  
+         <Welcome message='please subscibe'></Welcome> 
 
-        {/* <Message name='Entri' className='msg1' id='m1'></Message> */}
-        {/* <Counter/>
+         <Message name='Entri' className='msg1' id='m1'></Message> 
+        <Counter/>
 
        
         <Welcome name='sowndarys'></Welcome>
         <h1>this is my heading</h1>
         <p className='para1'>djsbhsd
-        </p> */}
+        </p> 
     </div>
 
     
